@@ -16,6 +16,12 @@ This project uses historical data from the Titanic disaster to build a classific
 5. Model Evaluation
 6. Analysis of Feature Importance
 
+### Usage
+1. Run the first script to train the model and save it as titanic_model.pkl.
+2. Run the second script to launch the GUI application. Enter the required passenger details and click the "Predict" button to see if the passenger would have survived.
+
+This implementation includes preprocessing steps and a user-friendly GUI interface for predicting Titanic survival based on various factors such as socio-economic status, age, gender, and more.
+
 
 ## 2. Stock Price Prediction with LSTM
 This project utilizes Long Short-Term Memory (LSTM) networks to predict the stock price of a given company. I have  use historical stock price data from Yahoo Finance to train the model.
